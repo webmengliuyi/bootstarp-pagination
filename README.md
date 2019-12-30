@@ -1,6 +1,10 @@
 # bootstarp-pagination
 
+好用的分页
+====
+
 只需传入3个参数，便可控制分页的宽度，防止分页过多溢出
+----
 
 ```javascript
 $('.pagination').paging({
